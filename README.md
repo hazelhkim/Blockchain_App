@@ -19,4 +19,5 @@ The proof of work system is one that requires miners to spend some time doing co
 ## Collect Transactions in a Pool
 Add Transaction Pool to the Peer to Peer Server. 
 
-## Mine Transactions in a Block ( In Progress )
+## Mine Transactions in a Block 
+Used Postman to test it.
